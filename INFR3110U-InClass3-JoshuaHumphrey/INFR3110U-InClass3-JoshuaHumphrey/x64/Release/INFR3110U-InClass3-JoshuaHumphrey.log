@@ -1,0 +1,9 @@
+﻿  GameObject.cpp
+  Main.cpp
+  Wrapper.cpp
+     Creating library C:\Users\Joshua\source\repos\INFR3110U-InClass3-JoshuaHumphrey\x64\Release\INFR3110U-InClass3-JoshuaHumphrey.lib and object C:\Users\Joshua\source\repos\INFR3110U-InClass3-JoshuaHumphrey\x64\Release\INFR3110U-InClass3-JoshuaHumphrey.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 12 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  INFR3110U-InClass3-JoshuaHumphrey.vcxproj -> C:\Users\Joshua\source\repos\INFR3110U-InClass3-JoshuaHumphrey\x64\Release\INFR3110U-InClass3-JoshuaHumphrey.dll
